@@ -35,9 +35,8 @@
 
 ## 📌 Featured Projects  
 
-🔹 [**Online Counseling Platform**](#) – MERN stack app with secure video calls, chat, and payments  
-🔹 [**Instagram Clone**](#) – Social media app built with React + Node.js  
-🔹 [**Snake Game**](#) – Classic snake game with JavaScript + Canvas  
+🔹 [**Online Counseling Platform**](https://wellmindcounseling.netlify.app) – MERN stack app with secure video calls, chat, and payments  
+
 
 👉 *Check out my pinned repositories for more!*  
 
@@ -45,17 +44,17 @@
 
 ## 📊 GitHub Stats  
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sury002&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sury002&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sury002&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me  
 
-🌐 [Portfolio](#)  
-💼 [LinkedIn](#)  
-📧 Email: your.email@example.com  
+🌐 [Portfolio](https://suryaksportfolio.netlify.app)  
+💼 [LinkedIn](www.linkedin.com/in/suryak24)  
+📧 Email: suryabalaji791@gmail.com  
 
 ---
 ⭐️ *Thanks for visiting my profile!*  
