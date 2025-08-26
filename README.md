@@ -35,8 +35,8 @@
 
 ## 📌 Featured Projects  
 
-🔹 [**Online Counseling Platform**](https://wellmindcounseling.netlify.app) – MERN stack app with secure video calls, chat, and payments 
-🔹 [**Snake Game**](https://suryassnakegame.netlify.app) – A modern, responsive Snake game built with HTML5 Canvas, CSS3, and JavaScript. 
+🔹 [**Online Counseling Platform**](https://wellmindcounseling.netlify.app) – MERN stack app with secure video calls, chat, and payments  
+🔹 [**Snake Game**](https://suryassnakegame.netlify.app) – A modern, responsive Snake game built with HTML5 Canvas, CSS3, and JavaScript.
 
 👉 *Check out my pinned repositories for more!*  
 
