@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🔭 I'm currently working on **MERN Stack Projects**  
-- 🌱 Learning **Advanced React, Node.js, and DevOps basics**  
+- 🌱 Learning **Advanced TypeScript, Node.js, and DevOps basics**  
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **React, JavaScript, or Web Development**  
 - ⚡ Fun fact: I love solving coding challenges & building side projects  
